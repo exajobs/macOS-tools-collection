@@ -8,7 +8,8 @@
 
 ## Table of Contents
  - [Motivation](#motivation)
- - [Section 1: Installation](#section1-installation)
+ - [Section 1: Installation](#section-1-installation)
+ - [Section 2: General Apps and Tools](#section-2-general-apps-and-tools)
 
 ## Motivation
 
