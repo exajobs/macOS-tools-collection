@@ -12,7 +12,7 @@
  - [Section 2: General Apps and Tools](#section-2-general-apps-and-tools)
  - [Section 3: Python Data Analysis](#section-3-python-data-and-analysis)
  - [Section 4: Big Data, AWS, and Heroku](#section-4-big-data-aws-and-heroku)
- - [Section 5: Databases](#section-5-databases)
+ - [Section 5: Data Stores](#section-5-data-stores)
  - [Section 6: JavaScript Web Development](#section-6-javascript-web-development)
  - [Section 7: Android Development](#android-development)
  - [Section 8: Misc](#section-8-misc)
