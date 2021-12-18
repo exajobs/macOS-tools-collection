@@ -1,5 +1,5 @@
-# macOS Development Setup
-> Welcome to MacOS Local Development & Setup. An ongoing curated list of OS X best applications, libraries, frameworks and tools to help developers set up their macOS Laptop.
+# macOS Setup & Tools 
+> Welcome to macOS Local Setup & Tools Collection. An ongoing curated list of OS X best applications, libraries, frameworks and tools to help developers set up their macOS Laptop.
 
 
 ![MacOs](https://github.com/exajobs/macOS-tools-collection/blob/main/img/macos-monterey-upgrade.png)
