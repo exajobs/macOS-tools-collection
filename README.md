@@ -4,6 +4,12 @@
 
 ![MacOs](https://github.com/exajobs/macOS-tools-collection/blob/main/img/macos-monterey-upgrade.png)
 
+
+
+## Table of Contents
+ - [Motivation](#motivation)
+ - [Installation](#installation)
+
 ## Motivation
 
 Setting up a new developer machine can be an **ad-hoc, manual, and time-consuming** process.  `dev-setup` aims to **simplify** the process with **easy-to-understand instructions** and **dotfiles/scripts** to **automate the setup** of the following:
