@@ -8,7 +8,7 @@
 
 ## Table of Contents
  - [Motivation](#motivation)
- - [Installation](#installation)
+ - [Section 1: Installation](#section1-installation)
 
 ## Motivation
 
